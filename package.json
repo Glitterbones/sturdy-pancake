@@ -1,0 +1,23 @@
+{
+  "name": "curly-palm-tree",
+  "version": "1.0.0",
+  "description": "12. SQL Challenge: Employee Tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glitterbones/curly-palm-tree.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glitterbones/curly-palm-tree/issues"
+  },
+  "homepage": "https://github.com/Glitterbones/curly-palm-tree#readme",
+  "dependencies": {
+    "mysql2": "^2.3.3"
+  }
+}
