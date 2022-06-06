@@ -1,23 +1,26 @@
 {
-  "name": "curly-palm-tree",
+  "name": "sql_employee_tracker",
   "version": "1.0.0",
-  "description": "12. SQL Challenge: Employee Tracker",
-  "main": "server.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Glitterbones/curly-palm-tree.git"
+    "url": "https://github.com/Glitterbones/sour-plank"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Glitterbones/curly-palm-tree/issues"
+    "url": "https://github.com/Glitterbones/sour-plankissues"
   },
-  "homepage": "https://github.com/Glitterbones/curly-palm-tree#readme",
+  "homepage": "https://github.com/Glitterbones/sour-plank#readme",
   "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.1",
+    "mysql": "^2.18.1",
     "mysql2": "^2.3.3"
   }
 }
